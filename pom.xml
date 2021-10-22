@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lichongbing</groupId>
     <artifactId>ltools</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>ltools</name>
     <description>java tools</description>
     <url>https://github.com/lichongbing/ltools</url>

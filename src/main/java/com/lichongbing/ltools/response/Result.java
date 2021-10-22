@@ -22,5 +22,14 @@ public class Result {
     private String xzqdm;  //行政区代码
     private String xzqmc;  //行政区名称
     private String status;  //业务办理状态
+    /**
+     *@author lichongbing
+     *@update 2021/10/22 2:10 下午
+     *@description: 增加字段
+     */
+    private String czlx; // 操作接口类型: (0: 受理消息接受， 1：契税完税信息， 2：契税完税信息pdf)
+    private String czxz;// 操作性质 (0:推送数据 1:查询进度)
+    private String tslx;//操作性质 (0:推送数据 1:查询进度)
+
 }
 
