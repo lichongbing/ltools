@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lichongbing</groupId>
     <artifactId>ltools</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <name>ltools</name>
     <description>java tools</description>
     <url>https://github.com/lichongbing/ltools</url>
@@ -163,6 +163,21 @@
             <groupId>cglib</groupId>
             <artifactId>cglib</artifactId>
             <version>3.2.7</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.jsonzou</groupId>
+            <artifactId>jmockdata</artifactId>
+            <version>4.2.0</version>
         </dependency>
     </dependencies>
 
