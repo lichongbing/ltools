@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lichongbing</groupId>
     <artifactId>ltools</artifactId>
-    <version>0.0.5</version>
+    <version>0.0.8</version>
     <name>ltools</name>
     <description>java tools</description>
     <url>https://github.com/lichongbing/ltools</url>
@@ -157,7 +157,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.7.11</version>
+            <version>5.7.17</version>
         </dependency>
         <dependency>
             <groupId>cglib</groupId>
